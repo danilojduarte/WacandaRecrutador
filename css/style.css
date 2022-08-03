@@ -1,0 +1,22 @@
+font-family: 'Hubballi', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --primary-color: #0077C0;
+    --second-color: #C7EEFF;
+    --text-color: #D9DBE1;
+    --font-big:4.8rem;
+    --h2-font: 3.2rem;
+    --p-font:1rem;
+}
